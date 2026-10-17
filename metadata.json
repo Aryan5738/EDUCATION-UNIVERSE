@@ -1,0 +1,6 @@
+{
+  "name": "Cosmos 3D - Sun, Moon & Universe Simulator",
+  "description": "An interactive, physically-grounded 3D orrery and universal cosmos simulator featuring the Sun with dynamic solar flares, Earth and Moon tidal system, planetary orbits, and real-time celestial controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
